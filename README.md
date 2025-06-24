@@ -21,8 +21,6 @@ Hi there! 👋 I'm Jana
 
 Currently completing BSc Computer Science & Business | 15+ years management experience | 10+ years public sector experience     
 
----
-
 💡 What I Bring
 
 I combine proven management and analytical skills from 15 years of leadership experience with modern technical capabilities I'm developing through my studies. This allows me to:
@@ -31,8 +29,6 @@ I combine proven management and analytical skills from 15 years of leadership ex
 - Lead cross-functional teams effectively
 - Analyze complex problems systematically
 - Communicate technical concepts to diverse stakeholders
-
----
 
 🛠 Technical Skills
 
@@ -75,11 +71,3 @@ Seeking **part-time Product Manager or Business Analyst roles** in Berlin where 
 
 **Open to**: FinTech, SaaS, B2B products, consulting
 -->
----
-
-📫 Let's Connect!
-
-- 💼 LinkedIn: [linkedin.com/in/jana-maire](https://linkedin.com/in/jana-maire)
-- 📍 Berlin, Germany
-
----
