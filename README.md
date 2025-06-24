@@ -15,33 +15,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there! 👋 I'm Jana
+Hi there! 👋 I'm Jana
 
-## 🚀 Experienced Manager Transitioning into Tech
+🚀 Experienced Manager Transitioning into Tech
 
 Currently completing BSc Computer Science & Business | 15+ years management experience | 10+ years public sector experience     
 
 ---
 
-## 💡 What I Bring
+💡 What I Bring
 
-I combine **proven management and analytical skills** from 15 years of leadership experience with **modern technical capabilities** I'm developing through my studies. This allows me to:
+I combine proven management and analytical skills from 15 years of leadership experience with modern technical capabilities I'm developing through my studies. This allows me to:
 
-- **Bridge business requirements** with technical solutions
-- **Lead cross-functional teams** effectively
-- **Analyze complex problems** systematically
-- **Communicate technical concepts** to diverse stakeholders
+- Bridge business requirements with technical solutions
+- Lead cross-functional teams effectively
+- Analyze complex problems systematically
+- Communicate technical concepts to diverse stakeholders
 
 ---
 
-## 🛠 Technical Skills
+🛠 Technical Skills
 
-**Languages**: Python, JavaScript, SQL, HTML/CSS, Java, Lua  
-**Frameworks**: Angular   
-**Data & Analytics**: Pandas, NumPy, Plotly, Scikit-learn  
-**Tools**: Git, Docker, PostgreSQL, REST APIs  
+- Languages: Python, JavaScript, SQL, HTML/CSS, Java, Lua  
+- Frameworks: Angular   
+- Data & Analytics: Pandas, NumPy, Plotly, Scikit-learn  
+- Tools: Git, Docker, PostgreSQL, REST APIs  
 
-**ToDo List**: TypeScript, Cloud platforms, React, Streamlit, Flask, Go
+ToDo List: TypeScript, Cloud platforms, React, Streamlit, Flask, Go
 
 <!--
 ---
@@ -63,10 +63,10 @@ Full-stack content management system
 Collection of analytical projects demonstrating problem-solving skills
 - **Tech**: Python, Pandas, Jupyter
 - **Focus**: Business intelligence and data-driven insights
--->
+
 ---
 
-## 🎯 What I'm Looking For
+🎯 What I'm Looking For
 
 Seeking **part-time Product Manager or Business Analyst roles** in Berlin where I can:
 - Apply analytical and management skills to tech products
@@ -74,14 +74,12 @@ Seeking **part-time Product Manager or Business Analyst roles** in Berlin where 
 - Contribute to product strategy and execution
 
 **Open to**: FinTech, SaaS, B2B products, consulting
-
+-->
 ---
 
-## 📫 Let's Connect!
+📫 Let's Connect!
 
-- 💼 **LinkedIn**: [linkedin.com/in/jana-maire](https://linkedin.com/in/jana-maire)
-- 📍 **Berlin, Germany**
+- 💼 LinkedIn: [linkedin.com/in/jana-maire](https://linkedin.com/in/jana-maire)
+- 📍 Berlin, Germany
 
 ---
-
-*Building tomorrow's products with today's management experience and fresh technical skills.*
